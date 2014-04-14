@@ -13,6 +13,8 @@ Contents:
 
 .. gist:: https://gist.github.com/shomah4a/5149412
 
+.. gist:: https://gist.github.com/shomah4a/5149412 git-やめる
+
 Indices and tables
 ==================
 
